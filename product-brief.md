@@ -1,7 +1,7 @@
 # Product Brief: Sortly
 
 **Kurs:** IBE160 Programmering med KI
-**Gruppe:** [fyll inn gruppenavn/medlemmer]
+**Gruppe:** [G100 - Dolor]
 
 ## Executive Summary
 
